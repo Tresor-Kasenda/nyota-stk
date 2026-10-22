@@ -9,7 +9,7 @@
             <th>Total</th>
         </tr>
     </thead>
-    
+
     <tbody>
         <?php foreach ($daily_visitors as $get) { ?>
         <tr>
